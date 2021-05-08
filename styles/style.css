@@ -148,7 +148,7 @@ button:hover {
 
 @media (max-width: 1440px) {
 	.form-container, #popup {
-		height: 43%;
+		height: 50%;
 	}
 }
 
